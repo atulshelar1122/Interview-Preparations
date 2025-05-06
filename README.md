@@ -2,10 +2,10 @@
 # OOPS
 
 Classes and Objects
-•	Class: Blueprint that defines structure and behavior
-•	Object: Instance of a class with its own state and behavior
-•	Members: Fields, properties, methods, events, etc.
-•	Instantiation: Creating objects using the new keyword
+Class: Blueprint that defines structure and behavior
+Object: Instance of a class with its own state and behavior
+Members: Fields, properties, methods, events, etc.
+Instantiation: Creating objects using the new keyword
 
 Four Pillars of OOP
 
